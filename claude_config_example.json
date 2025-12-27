@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lsp-bridge": {
+      "command": "node",
+      "args": ["C:/Users/vedan/Desktop/lsp-mcp/build/index.js"]
+    }
+  }
+}
